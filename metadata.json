@@ -1,0 +1,5 @@
+{
+  "name": "Hollow Knight Hornet Image Generator",
+  "description": "Generate a new, cute picture of Hornet from the game Hollow Knight every time you press the button. Each image is uniquely created by AI.",
+  "requestFramePermissions": []
+}
